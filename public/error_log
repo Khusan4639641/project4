@@ -1,0 +1,8 @@
+[06-Oct-2020 11:06:02 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/marketu1/public_html/app/Http/Controllers/Controller.php on line 72
+[06-Oct-2020 11:06:06 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/marketu1/public_html/app/Http/Controllers/Controller.php on line 72
+[06-Oct-2020 11:07:01 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/marketu1/public_html/app/Http/Controllers/Controller.php on line 72
+[06-Oct-2020 11:09:17 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/marketu1/public_html/app/Http/Controllers/Controller.php on line 72
+[06-Oct-2020 11:10:23 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/marketu1/public_html/app/Http/Controllers/Controller.php on line 72
+[08-Oct-2020 10:36:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/marketu1/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 640
+[08-Oct-2020 10:37:26 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/marketu1/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 336
+[23-Oct-2020 13:31:23 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/marketu1/public_html/storage/framework/views/a44d0572eedc4202f09cde5777af6b7ca2199259.php on line 346
